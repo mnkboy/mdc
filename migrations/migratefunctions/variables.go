@@ -10,3 +10,10 @@ var user usermodels.UsuarioModel
 
 //Declaramos las variables de MySQL
 var tablaactivismo mdcmodels.TablaActivismoModel
+var tablaaperturacierrecasillas mdcmodels.TablaAperturaCierreCasillasModel
+var tablaeleccionesayuntamiento mdcmodels.TablaEleccionesAyuntamientoModel
+var tablaeleccionesdiputados mdcmodels.TablaEleccionesDiputadosModel
+var tablaeleccionespresidente mdcmodels.TablaEleccionesPresidenteModel
+var tablaeleccionessenadores mdcmodels.TablaEleccionesSenadoresModel
+var tablainfoadicionalcasillas mdcmodels.TablaInfoAdicionalCasillasModel
+var tablareportesrgs mdcmodels.TablaReportesRgsModel
